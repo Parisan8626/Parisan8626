@@ -24,18 +24,15 @@
 - **Traffic Light Simulator** -
 Interactive traffic light simulation using JavaScript
 
-## 🌈 **My Coding Activity** 
+## 📈 GitHub Activity
 
 <div align="center">
 
-### 🚀 Weekly Commit Pattern
+### Weekly Commit Pattern
 ```mermaid
-pie showData
-    title="My Weekly Commits"
-    titleFontSize=16
-    section Days
-    "Monday 🌞" : 25
-    "Wednesday 🌟" : 35 
-    "Friday 🎉" : 40
-    "Other days" : 10
-    colors=["#2ecc71","#3498db","#9b59b6","#e74c3c"]
+xychart-beta
+    title "My Weekly Commits"
+    x-axis [Mon, Tue, Wed, Thu, Fri, Sat, Sun]
+    y-axis "Commits" 0 --> 10
+    bar [5, 2, 7, 3, 6, 1, 0]
+    line [5, 2, 7, 3, 6, 1, 0]
