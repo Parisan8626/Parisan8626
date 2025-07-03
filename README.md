@@ -1,25 +1,38 @@
-# **Parsian Sifizada**  
-### Frontend Developer  
+# ✨ **Parsian Sifizada**  
+#### � **Frontend Developer & Digital Artist**  
 
-### 🛠️ **Skills & Technologies**  
-- **Languages:** JavaScript, HTML5, CSS3, Python (Basic)  
-- **Frameworks/Libraries:** React  
-- **Tools:** Git, GitHub, VS Code, Figma  
+---
 
-### 🎨 **Design & Collaboration**  
-- UI/UX prototyping with **Figma**  
-- Version control & teamwork via **Git/GitHub**  
+### 🎨 **Design Palette**  
+`#FF6B6B` `#4ECDC4` `#45B7D1` `#FFD166`  
 
-### 🌱 **Currently Learning**  
-Expanding Python knowledge for full-stack potential.  
+---
 
-### 📫 **Contact**  
-- **Email:** [Your Email]  
-- **GitHub:** [Your GitHub Profile]  
-- **Portfolio:** [Optional: Portfolio Link]  
- 
+## 🔥 **Core Skills**  
+| **Category**       | **Technologies**                              |
+|--------------------|---------------------------------------------|
+| **Languages**      | JavaScript · TypeScript (Basic) · Python   |
+| **Frontend**       | React · Next.js · HTML5 · CSS3 · SASS      |
+| **Design**         | Figma · Adobe XD · UI/UX Principles        |
+| **Tools**          | Git · GitHub · VS Code · Netlify · Vercel  |
 
-<!---
-Parisan8626/Parisan8626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🏆 **Highlight Projects**  
+### 🚀 **Project Aurora**  
+- React-powered e-commerce dashboard  
+- Featured animations with GSAP  
+- **[Live Demo](https://...)** │ **[Code](https://...)**  
+
+### 🎮 **Pixel Playground**  
+- CSS-only game interface  
+- Responsive design with Flexbox  
+- Won **"Best UI"** at local hackathon  
+
+---
+
+## 🌱 **Growth Tracker**  
+```progress
+■■■■■■■■□□ 80% React Advanced  
+■■■■□□□□□□ 30% Next.js  
+■■■■■■□□□□ 60% Python Flask  
