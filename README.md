@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prisan Saifzadeh
+# 👋 Hi, I'm Prisan Saifizadeh
 ### Frontend Developer | JavaScript Enthusiast
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue)](https://git.io/streak-stats)
@@ -21,16 +21,17 @@
 ## 🚀 Featured Projects
 
 - **TodoList App** - A task management application built with React
-- **Traffic Light Simulator** - Interactive traffic light simulation using JavaScript
+- **Traffic Light Simulator** -
+Interactive traffic light simulation using JavaScript
 
 ## 📈 GitHub Activity
 
+## 📊 Weekly Commit Activity
+
 ```mermaid
-gantt
-    title Weekly GitHub Activity
-    dateFormat  X
-    axisFormat %U
-    section Commits
-    Push commits :active, 2023-01-01, 3w
-    Push commits :active, 2023-01-22, 3w
-    Push commits :active, 2023-02-12, 3w
+pie
+    title Weekly Commits (Average)
+    "Monday" : 15
+    "Wednesday" : 20
+    "Friday" : 25
+    "Other days" : 5
