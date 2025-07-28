@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prisan Saifizadeh
 ### Frontend Developer | JavaScript Enthusiast
 
-[![GitHub Streak](https://github.com/Parisan8626=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/Parisan8626)](https://git.io/streak-stats)
 
 ## 🛠️ Skills & Technologies
 
