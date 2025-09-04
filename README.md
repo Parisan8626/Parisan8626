@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ4eWl4c3VqY2Rtb2J6Z2NjbGZ6N2VjeHp6d2R0eHhqZ2Z6eGZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
+![Cartoon Coding](https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif)
 
 </div>
 
