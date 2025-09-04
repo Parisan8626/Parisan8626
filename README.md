@@ -1,27 +1,27 @@
-👋 سلام، من پاریسان هستم!
+👋 Hello, I'm Parisan!
 
-توسعه‌دهنده فرانت‌اند | متخصص ری‌اکت
-
-<div align="center">
-
-![GIF خوش‌آمدگویی](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
-</div>
-
-## 🚀 درباره من
-
-من یک توسعه‌دهنده فرانت‌اند پرشور با تخصص در فناوری‌های مدرن وب هستم. سفر من شامل پیشینه پایتون و یادگیری ماشین است و اکنون بر ایجاد تجربیات کاربری استثنایی با ری‌اکت و نکست‌جی‌اس متمرکز شده‌ام.
+Frontend Developer | React Specialist
 
 <div align="center">
 
-![آمار پیوسته گیت‌هاب](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=blueberry&hide_border=true&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
-![آمار گیت‌هاب](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
+![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 </div>
 
-## 🛠️ زرادخانه فنی
+## 🚀 About Me
 
-### تسلط بر فرانت‌اند
+I'm a passionate frontend developer with expertise in modern web technologies. My journey includes Python and machine learning background, now focused on creating exceptional user experiences with React and Next.js.
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=blueberry&hide_border=true&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
+
+## 🛠️ Technical Stack
+
+### Frontend Mastery
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-### ابزارهای توسعه
+### Development Tools
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-### بک‌اند و علم داده
+### Backend & Data Science
 
 <div align="center">
 
@@ -56,18 +56,28 @@
 
 </div>
 
-## 💡 تخصص‌های برجسته
+## 💻 Coding in Action
 
-- **اکوسیستم ری‌اکت**: الگوهای پیشرفته ری‌اکت، هوک‌ها، Context API و مدیریت وضعیت
-- **Next.js**: رندرینگ سمت سرور، تولید سایت استاتیک و مسیرهای API
-- **طراحی واکنش‌گرا**: رویکرد موبایل‌فرست با چارچوب‌های CSS مدرن
-- **بهینه‌سازی عملکرد**: تقسیم کد، لودینگ تنبل و بهینه‌سازی باندل
-- **طراحی UI/UX**: نمونه‌سازی و پیاده‌سازی با فیگما
+<div align="center">
 
-## 📊 تمرکز توسعه
+![Coding GIF](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
-```text
-🔄 کامپوننت‌های ری‌اکت   ██████████ 100%
-⚡ پروژه‌های نکست‌جی‌اس    █████████▢ 90%
-🎨 طراحی UI/UX          ████████▢▢ 80%
-🐍 پایتون/یادگیری ماشین  ██████▢▢▢▢ 60% 
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=blueberry&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+![Building the Web](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+
+> Building the web, one component at a time 🐼💻
+
+![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=flat)
+
+</div> 
