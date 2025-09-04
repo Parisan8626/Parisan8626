@@ -6,9 +6,9 @@
 
 </div>
 
-**Frontend Developer | React Specialist | UI/UX Enthusiast**
+**Frontend Developer**
 
-I'm a passionate frontend developer with expertise in modern web technologies, focused on creating exceptional user experiences with React and Next.js. With additional background in Python and machine learning, I bring a unique perspective to frontend development.
+I'm a passionate frontend developer with expertise in modern web technologies, focused on creating exceptional user experiences with React and Next.js. 
 
 ---
 
