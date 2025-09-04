@@ -45,12 +45,3 @@ I'm a passionate frontend developer with expertise in modern web technologies, f
 
 </div>
 
----
-
-<div align="center">
-
-> "First, solve the problem. Then, write the code." - John Johnson
-
-![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=for-the-badge)
-
-</div> 
