@@ -1,6 +1,10 @@
 # 👋 Hello, I'm Parisan Seifzadeh
 
-    https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
+<div align="center">
+
+![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ4eWl4c3VqY2Rtb2J6Z2NjbGZ6N2VjeHp6d2R0eHhqZ2Z6eGZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
+
+</div>
 
 **Frontend Developer | React Specialist | UI/UX Enthusiast**
 
@@ -43,7 +47,10 @@ I'm a passionate frontend developer with expertise in modern web technologies, f
 
 ---
 
+<div align="center">
 
+> "First, solve the problem. Then, write the code." - John Johnson
 
+![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=for-the-badge)
 
-
+</div> 
