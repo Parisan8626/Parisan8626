@@ -6,11 +6,18 @@
 
 </div>
 
-**Frontend Developer**
-
-I'm a passionate frontend developer with expertise in modern web technologies, focused on creating exceptional user experiences with React and Next.js. 
-
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Parisan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=radical&hide_border=true&fire=FF0000)
+
+</div>
+
+
 
 ## 🛠️ Technical Skills
 
@@ -34,14 +41,4 @@ I'm a passionate frontend developer with expertise in modern web technologies, f
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Parisan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=radical&hide_border=true&fire=FF0000)
-
-</div>
 
