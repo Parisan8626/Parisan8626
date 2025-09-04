@@ -27,6 +27,7 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -41,6 +42,7 @@
 ## 🌟 My Coding Journey
 
 - 🎨 Building pixel-perfect UIs with **React** & **TailwindCSS**
+- ⚡ Developing high-performance apps with **Next.js**
 - 🤖 Former **Python/ML** developer transitioning to frontend
 - 🚀 Love open-source collaborations
 - ✨ Currently learning **advanced React patterns** and **TypeScript**
@@ -68,6 +70,6 @@
 
 <div align="center">
 
-![Floating Stars](https://media.giphy.com/media/XcQZHwxJ1LQ0M/giphy.gif)
+![Blue Stars](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
-</div>
+</div> 
