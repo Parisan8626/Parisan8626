@@ -1,4 +1,40 @@
 # 👋 Hello, I'm Parisan Seifzadeh
+<rect y="11" width="1" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="2" y="13" width="2" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="4" y="14" width="3" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="4" y="14" width="5" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="9" y="13" width="3" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="12" y="12" width="1" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="13" y="11" width="1" height="1" fill="black" fill-opacity="0.1"/>
+          <rect x="13" y="6" width="3" height="1" fill="#EAEDEF"/>
+          <rect x="13" y="7" width="2" height="1" fill="#EAEDEF"/>
+        </g>
+        <g id="ghost-14-crown" transform="translate(7, -2)">
+          <rect y="0.5" width="0.8" height="2.25" fill="#FFD600"/>
+          <rect x="0.799988" y="1.25" width="0.8" height="1.5" fill="#FFD600"/>
+          <rect x="1.59998" y="0.5" width="0.8" height="2.25" fill="#FFD600"/>
+          <rect x="2.40002" y="1.25" width="0.8" height="1.5" fill="#FFD600"/>
+          <rect x="3.20001" y="0.5" width="0.8" height="2.25" fill="#FFD600"/>
+        </g>
+        <g id="ghost-14-tongue" transform="translate(8, 6)">
+          <rect x="0.888855" width="2.22222" height="0.857141" fill="#E2141F"/>
+          <rect x="1.33325" y="0.428574" width="2.22222" height="0.857141" fill="#E2141F"/>
+          <rect x="2.22217" y="0.857117" width="1.77778" height="0.857141" fill="#E2141F"/>
+          <rect x="1.77771" y="1.28571" width="2.22222" height="0.857141" fill="#E2141F"/>
+          <rect x="2.22217" y="1.71428" width="1.33333" height="0.857141" fill="#E2141F"/>
+          <rect x="0.444397" y="0.428574" width="0.444444" height="0.428571" fill="black" fill-opacity="0.19"/>
+          <rect x="0.888855" y="0.857117" width="0.444444" height="0.428571" fill="black" fill-opacity="0.19"/>
+          <rect x="1.33325" y="1.28571" width="0.444444" height="0.857141" fill="black" fill-opacity="0.19"/>
+          <rect x="1.77771" y="2.14285" width="0.444444" height="0.428571" fill="black" fill-opacity="0.19"/>
+          <rect x="2.22217" y="2.57143" width="0.888889" height="0.428571" fill="black" fill-opacity="0.19"/>
+        </g>
+        <g id="ghost-14-lip" transform="translate(8, 6)">
+          <rect x="-6.10352e-05" width="4" height="0.428571" fill="#7C2C34"/>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
 
 **Frontend Developer | React Specialist | UI/UX Enthusiast**
 
@@ -64,32 +100,3 @@ A Python-based dashboard for visualizing machine learning model performance and 
 
 </div>
 
----
-
-## 🌟 What I Bring to Projects
-
-- **Clean, maintainable code** with attention to best practices
-- **Responsive designs** that work seamlessly across all devices
-- **Performance optimization** for faster loading experiences
-- **Collaborative approach** with clear communication
-- **Problem-solving mindset** with creative technical solutions
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parisan-seifzadeh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parisan.seifzadeh@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://parisan-seifzadeh.vercel.app)
-
----
-
-<div align="center">
-
-> "First, solve the problem. Then, write the code." - John Johnson
-
-![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=for-the-badge)
-
-</div> 
