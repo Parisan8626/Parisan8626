@@ -1,30 +1,14 @@
-👋 Hello, I'm Parisan!
+# 👋 Hello, I'm Parisan Seifzadeh
 
-Frontend Developer | React Specialist
+**Frontend Developer | React Specialist | UI/UX Enthusiast**
 
-<div align="center">
+I'm a passionate frontend developer with expertise in modern web technologies, focused on creating exceptional user experiences with React and Next.js. With additional background in Python and machine learning, I bring a unique perspective to frontend development.
 
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+---
 
-</div>
+## 🛠️ Technical Skills
 
-## 🚀 About Me
-
-I'm a passionate frontend developer with expertise in modern web technologies. My journey includes Python and machine learning background, now focused on creating exceptional user experiences with React and Next.js.
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=blueberry&hide_border=true&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
-## 🛠️ Technical Stack
-
-### Frontend Mastery
-
-<div align="center">
-
+### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,30 +17,46 @@ I'm a passionate frontend developer with expertise in modern web technologies. M
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
-
-### Development Tools
-
-<div align="center">
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+### **Additional Skills**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge)
 
-### Backend & Data Science
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  
+![Parisan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=radical&hide_border=true&fire=FF0000)
 
 </div>
 
-## 💻 Coding in Action
+---
+
+## 🚀 Featured Projects
+
+### React E-commerce Platform
+A full-featured e-commerce platform built with React, featuring user authentication, product filtering, and shopping cart functionality.
+
+### Next.js Portfolio Website
+A modern portfolio website built with Next.js, TypeScript, and Tailwind CSS, showcasing responsive design and optimal performance.
+
+### Machine Learning Dashboard
+A Python-based dashboard for visualizing machine learning model performance and data insights.
+
+---
+
+## 📈 Coding Activity
 
 <div align="center">
 
@@ -64,20 +64,32 @@ I'm a passionate frontend developer with expertise in modern web technologies. M
 
 </div>
 
-<div align="center">
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=blueberry&hide_border=true&langs_count=8)
+## 🌟 What I Bring to Projects
 
-</div>
+- **Clean, maintainable code** with attention to best practices
+- **Responsive designs** that work seamlessly across all devices
+- **Performance optimization** for faster loading experiences
+- **Collaborative approach** with clear communication
+- **Problem-solving mindset** with creative technical solutions
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parisan-seifzadeh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parisan.seifzadeh@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://parisan-seifzadeh.vercel.app)
 
 ---
 
 <div align="center">
 
-![Building the Web](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+> "First, solve the problem. Then, write the code." - John Johnson
 
-> Building the web, one component at a time 🐼💻
-
-![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=for-the-badge)
 
 </div> 
