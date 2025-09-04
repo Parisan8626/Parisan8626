@@ -1,10 +1,13 @@
 # 👋 Hello, I'm **Parisan**!  
-#### *Frontend Developer with Python & ML Background*  
+#### *Frontend Developer | Python & ML Enthusiast*  
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Blue Stars](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)  
+*"Code is poetry"* ✨  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parisan8626&theme=blueberry&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -13,36 +16,35 @@
 ### 🛠 **Tech Stack**  
 <div align="center">
 
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #FF6B6B; border-radius: 10px; color: white;">**HTML5**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #4ECDC4; border-radius: 10px; color: white;">**CSS3**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #FFD166; border-radius: 10px; color: black;">**JavaScript**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #06D6A0; border-radius: 10px; color: white;">**React**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #118AB2; border-radius: 10px; color: white;">**TailwindCSS**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #073B4C; border-radius: 10px; color: white;">**Figma**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #EF476F; border-radius: 10px; color: white;">**Git/GitHub**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #FF9F1C; border-radius: 10px; color: black;">**Python**</div>
-<div style="display: inline-block; margin: 10px; padding: 10px; background: #7209B7; border-radius: 10px; color: white;">**Vite**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #2563EB; border-radius: 10px; color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">**React**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #1E40AF; border-radius: 10px; color: white;">**JavaScript**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #3B82F6; border-radius: 10px; color: white;">**TailwindCSS**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #1D4ED8; border-radius: 10px; color: white;">**Figma**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #60A5FA; border-radius: 10px; color: black;">**Python**</div>
+<div style="display: inline-block; margin: 10px; padding: 10px; background: #93C5FD; border-radius: 10px; color: black;">**Vite**</div>
 
 </div>
 
 ---
 
-### 🚀 **Featured Projects**  
-<div align="center" style="text-align: left;">
-
-🔦 [Traffic Light Simulator](https://github.com/Parisan8626/Traffic-Light)  
-🎮 [Tic Tac Toe Game](https://github.com/Parisan8626/Tic-Tac-Toe)  
-⛅ [Weather App](https://github.com/Parisan8626/Weather-App)  
-✂️ [Pet Grooming Salon (Figma + Frontend)](https://github.com/Parisan8626/Pet-Grooming-Salon)  
-
-</div>
+### 🌟 **My Coding Journey**  
+- 🎨 Building pixel-perfect UIs with React & Tailwind  
+- 🤖 Former Python/ML developer transitioning to frontend  
+- 🚀 Love open-source collaborations  
+- ✨ Currently learning advanced React patterns  
 
 ---
 
 ### 📫 **Let's Connect**  
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+
+</div>
+
+<div align="center">
+  
+![Floating Stars](https://media.giphy.com/media/XcQZHwxJ1LQ0M/giphy.gif)  
 
 </div>
