@@ -13,7 +13,7 @@
   
 ![Parisan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=radical&hide_border=true)
+
 
 </div>
 
@@ -76,62 +76,3 @@
 
 </div>
 
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-
-@keyframes glow {
-  0%, 100% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6; }
-  50% { text-shadow: 0 0 10px #fff, 0 0 20px #0073e6, 0 0 30px #0073e6; }
-}
-
-@keyframes slideIn {
-  0% { transform: translateX(-100px); opacity: 0; }
-  50% { transform: translateX(0); opacity: 1; }
-  100% { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes typewriter {
-  0% { width: 0; }
-  50% { width: 100%; }
-  100% { width: 100%; }
-}
-
-@keyframes shake {
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(5deg); }
-  75% { transform: rotate(-5deg); }
-}
-
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-@keyframes fadeInOut {
-  0%, 100% { opacity: 0.5; }
-  50% { opacity: 1; }
-}
-
-h1, h2, h3 {
-  animation: fadeIn 2s ease-in;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
