@@ -11,7 +11,7 @@
 
 <div align="center">
   
-![Parisan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parisan8626&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parisan8626&layout=compact&theme=radical&hide_border=true)
 
@@ -45,13 +45,5 @@
 
 <div align="center">
 
-## 🌟 Featured Projects
-
-### 🚀 Coming Soon...
-I'm currently working on some exciting projects! Stay tuned for updates.
-
-
-
-**Thanks for visiting my profile!** 😊
 
 </div>
