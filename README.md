@@ -50,21 +50,7 @@
 ### 🚀 Coming Soon...
 I'm currently working on some exciting projects! Stay tuned for updates.
 
-## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/Parisan8626">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=flat-square)
 
 **Thanks for visiting my profile!** 😊
 
