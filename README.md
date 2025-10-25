@@ -51,28 +51,4 @@
 
 <div align="center">
 
-## 🌟 <span style="animation: glow 2s ease-in-out infinite;">Featured Projects</span>
-
-### 🚀 <span style="animation: slideIn 3s ease-in-out infinite;">Coming Soon...</span>
-<span style="animation: typewriter 4s steps(40) infinite;">I'm currently working on some exciting projects! Stay tuned for updates.</span>
-
-## 📫 <span style="animation: shake 2s ease-in-out infinite;">Let's Connect</span>
-
-<p align="center">
-  <a href="https://github.com/Parisan8626">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="animation: rotate 4s linear infinite;"/>
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Parisan8626&color=blueviolet&style=flat-square)
-
-<span style="animation: fadeInOut 3s ease-in-out infinite;">**Thanks for visiting my profile!** 😊</span>
-
-</div>
 
